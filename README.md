@@ -1,4 +1,4 @@
-# Spring console application
+# Spring console application JSON CSV File reader
 
 Problem Statement - Taking 2 file paths (JSON & CSV) as command line arguments and read the data of both the files and display the data in output.
 <img width="95%" src="https://github.com/lakshygupta/Java_Spring-JSON-CSV-File-Reader/blob/main/Output.png" />
