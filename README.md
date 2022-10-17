@@ -1,4 +1,4 @@
-Java Developer test submission by Lakshy Gupta
+# How to run
 
 1. Import the java-assignment project in STS / Eclipse.
 
